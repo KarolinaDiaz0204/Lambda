@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\Karolina D\PROGRAMACIÓN I CON CRISTHOPER\Lambda\Lambda\bin\Debug\net8.0\Lambda.exe
+C:\Users\USER\Desktop\Karolina D\PROGRAMACIÓN I CON CRISTHOPER\Lambda\Lambda\bin\Debug\net8.0\Lambda.deps.json
+C:\Users\USER\Desktop\Karolina D\PROGRAMACIÓN I CON CRISTHOPER\Lambda\Lambda\bin\Debug\net8.0\Lambda.runtimeconfig.json
+C:\Users\USER\Desktop\Karolina D\PROGRAMACIÓN I CON CRISTHOPER\Lambda\Lambda\bin\Debug\net8.0\Lambda.dll
+C:\Users\USER\Desktop\Karolina D\PROGRAMACIÓN I CON CRISTHOPER\Lambda\Lambda\bin\Debug\net8.0\Lambda.pdb
+C:\Users\USER\Desktop\Karolina D\PROGRAMACIÓN I CON CRISTHOPER\Lambda\Lambda\obj\Debug\net8.0\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Karolina D\PROGRAMACIÓN I CON CRISTHOPER\Lambda\Lambda\obj\Debug\net8.0\Lambda.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Karolina D\PROGRAMACIÓN I CON CRISTHOPER\Lambda\Lambda\obj\Debug\net8.0\Lambda.AssemblyInfo.cs
+C:\Users\USER\Desktop\Karolina D\PROGRAMACIÓN I CON CRISTHOPER\Lambda\Lambda\obj\Debug\net8.0\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Karolina D\PROGRAMACIÓN I CON CRISTHOPER\Lambda\Lambda\obj\Debug\net8.0\Lambda.dll
+C:\Users\USER\Desktop\Karolina D\PROGRAMACIÓN I CON CRISTHOPER\Lambda\Lambda\obj\Debug\net8.0\refint\Lambda.dll
+C:\Users\USER\Desktop\Karolina D\PROGRAMACIÓN I CON CRISTHOPER\Lambda\Lambda\obj\Debug\net8.0\Lambda.pdb
+C:\Users\USER\Desktop\Karolina D\PROGRAMACIÓN I CON CRISTHOPER\Lambda\Lambda\obj\Debug\net8.0\Lambda.genruntimeconfig.cache
+C:\Users\USER\Desktop\Karolina D\PROGRAMACIÓN I CON CRISTHOPER\Lambda\Lambda\obj\Debug\net8.0\ref\Lambda.dll
